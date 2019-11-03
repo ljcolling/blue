@@ -7,4 +7,5 @@
 #' @export
 saycolour <- function(){
   cat("This is the 'saycolour()' function from the 'blue' package")
+  return("blue")
 }
