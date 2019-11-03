@@ -7,5 +7,5 @@
 #' @export
 saycolour <- function(){
   cat("This is the 'saycolour()' function from the 'blue' package")
-  colour = "blue"
+  invisible(colour = "blue")
 }
