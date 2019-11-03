@@ -6,7 +6,6 @@
 #' If it's the red package then it says 'red'.
 #' @export
 saycolour <- function(){
-  "blue"
   cat("This is the 'saycolour()' function from the package: ")
-
+  colour = "blue"
 }
